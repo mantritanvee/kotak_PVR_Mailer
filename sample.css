@@ -1,0 +1,173 @@
+.textOrange{
+	color : #FF8E0A !important;
+}
+.purple{
+	color : #673091 !important;
+}
+.red{
+	color : #ED1C24 !important;
+}
+.turquoise{
+	color : #74BDAC !important;
+}
+.grey{
+	color : #A2A2A2 !important;
+}
+
+
+.borderOrangeTop{
+	border-top : 3px solid #FF8E0A !important;
+}
+.borderOrangeBottom{
+	border-bottom : 3px solid #FF8E0A !important;
+}
+.rectImg{
+	background-image : url('img/Rectangle 119.png');
+}
+.floatR{
+	float: right !important;
+}
+.floatL{
+	float: left !important;
+}
+.padding5{
+	padding :5px !important;
+}
+.ellImg{
+	background-image : url('img/Ellipse 15.png');
+}
+.notification {
+  
+  color: white;
+  text-decoration: none !important;
+  padding: 15px 26px;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+textarea {
+  resize: none !important;
+}
+
+.notification .badge {
+  position: absolute;
+  top: 5px;
+  right: -5px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  background-color: #FF8E0A !important;
+  color: white;
+  font-weight: normal !important;
+}
+
+.btn-form{
+	background-color: #FF8E0A!important;
+	color:white !important;
+}
+.borderRight{
+	border-top-right-radius: 13px !important;
+    border-bottom-right-radius: 13px !important;
+}
+.borderLeft{
+	border-top-left-radius: 13px !important;
+    border-bottom-left-radius: 13px !important;
+}
+.fullWebKitWidth{
+	width: -webkit-fill-available !important;
+}
+.iconPadding{
+padding: 3px !important;
+}
+.w-25{
+	width: 25% !important;
+}
+.w-35{
+	width: 35% !important;
+}
+.textRight{
+	text-align: right !important;
+}
+.textCenter{
+	text-align: center !important;
+}
+.bookATicketImg{
+    /*width: 1360px;*/
+    height: 349px !important;
+}
+.btn-apply-now{
+    font-family: sans-serif !important;
+    font-size: larger !important;
+    color: #fff !important;
+    background-color: #ed3338 !important;
+    border-color: #ed3338 !important;
+	border-radius: 15px !important;
+	font-weight : 700 !important;
+}
+.fontWeight600{
+    font-weight: 600;
+}
+.btn-PVR-cares{
+    font-family: sans-serif !important;
+    font-size: larger !important;
+    color: #fff !important;
+    background-color: #1d4777 !important;
+    border-color: #1d4777 !important;
+	font-weight : 700 !important;
+	border-radius: 0px !important;
+}
+.overflowXhiddden{
+    overflow-x: hidden !important;
+}
+section{
+    background: linear-gradient(to bottom, #fff9eb 0%, #fff9eb 100%);
+}
+.bookAticketText{
+    color: #f0393e !important;
+    font-weight: 700 !important;
+    font-size: xx-large !important;
+}
+.getYorText{
+    font-weight: 500 !important;
+    font-size: larger !important;
+}
+.card-now{
+    font-weight: bolder !important;
+    font-size: xx-large !important;
+    margin-top: -10px !important;
+}
+.display-inline-flex{
+	display: inline-flex !important;
+}
+.img-text{
+    font-weight: 700 !important;
+    font-size: x-large !important;
+}
+.footerColor{
+	background-color:#efdfbe !important;
+}
+.whatsMore{
+    font-weight: 500 !important;
+    font-size: x-large !important;
+}
+.display-inline-block{
+    display: inline-block !important;
+}
+.unsetText{
+    font-size: initial !important;
+    font-weight: unset !important;
+}
+hr{
+    width: 100% !important;
+    color: #000 !important;
+}
+.flex-dir-initial{
+	flex-direction : initial !important;
+}
+.black{
+	color : #303030 !important;
+	text-decoration : underline !important;
+}
+.font-weight-500{
+    font-weight: 500 !important;
+}
